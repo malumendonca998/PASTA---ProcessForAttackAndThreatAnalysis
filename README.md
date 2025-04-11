@@ -73,5 +73,5 @@ Este projeto demonstra como aplicar a metodologia PASTA na prática, fornecendo 
 Caso queira trocar uma ideia sobre segurança, tecnologia ou colaborações:
 
 **Maria Luiza**  
-🔗 [LinkedIn](https://www.linkedin.com)  
-📧 seuemail@exemplo.com
+🔗https://www.linkedin.com/in/maria-luiza-mendon%C3%A7a-7839a71ba/  
+📧 Luizqmorais94@gmail.com
