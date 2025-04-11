@@ -58,7 +58,7 @@ A estrutura **PASTA** é composta por **7 etapas**, que ajudam a identificar e t
 
 Para ver todos os detalhes da análise, você pode acessar o documento completo em PDF:
 
-📎 [PASTA - Process for Attack Simulation and Threat Analysis.pdf](./PASTA%20-%20Process%20for%20Attack%20Simulation%20and%20Threat%20Analysis.pdf)
+📎 [PASTA - Process for Attack Simulation and Threat Analysis.pdf](https://github.com/malumendonca998/PASTA---ProcessForAttackAndThreatAnalysis/blob/c872bcfb141e9a1a4a4e95b8b0da05d782a93ae1/PASTA%20-%20Process%20for%20Attack%20Simulation%20and%20Threat%20Analysis.pdf.pdf)
 
 ---
 
